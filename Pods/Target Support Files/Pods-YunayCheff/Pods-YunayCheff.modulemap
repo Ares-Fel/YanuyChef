@@ -1,0 +1,6 @@
+framework module Pods_YunayCheff {
+  umbrella header "Pods-YunayCheff-umbrella.h"
+
+  export *
+  module * { export * }
+}
